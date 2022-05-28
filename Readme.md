@@ -2,12 +2,41 @@
 
 ## ![Image Not Found](banner.png)
 
-<a href="https://app.daily.dev/ashish_jaiswar"><img align="right" src="https://api.daily.dev/devcards/7497f4ca25d4441eb095450147679266.png?r=tk3" width="100" alt="Ashish Jaiswar's Dev Card"/></a>
-
 <p>Welcome Visitor,<br>
 I'm a Full-stack Web developer and a Automation Engineer.
 Passionate about Web, open-source, Automation. 
-Exploring UI/UX design, 3D Web Pages, Animation</p>
+Exploring UI/UX designing, 3D Web pages, Web Animation.</p>
+
+### **[Check out my DevCard](https://app.daily.dev/ashish_jaiswar)**
+
+---
+
+## **[Connect with me]()**
+
+<p align="left">
+    <a href="#">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
+    </a>
+    <a href="https://twitter.com/ashishjaiswar_">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    </a>
+    <a href="https://www.linkedin.com/in/ashish-jaiswar-developer/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:ashish.jaiswar687@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://medium.com/@ashishjaiswar777">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev"/>
+    </a>
+    <a href="https://github.com/AshishJaiswar">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+
+</p>
 
 ---
 
@@ -77,4 +106,23 @@ alt="Chrome"
 
 ---
 
-## **Tools**
+## **Management Tools & Apps**
+
+<p>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+<img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" alt="BitBucket" />
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VScode" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Pwer BI" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashishjaiswar)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishjaiswar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
