@@ -1,6 +1,6 @@
 ## Hey👋, It's Ashish Jaiswar.
 
-## ![Image Not Found](banner.png)
+## ![Image Not Found](social_banner.png)
 
 <p>Welcome Visitor,<br>
 I'm a Full-stack Web developer and a Automation Engineer.
