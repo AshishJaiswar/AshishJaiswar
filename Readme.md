@@ -1,6 +1,6 @@
 ## Hey👋, It's Ashish Jaiswar.
 
-## ![Web • Automation • DevOps](./social_banner.png)
+## ![Web Developer](./ashish_jaiswar.png)
 
 <p>Welcome Visitor,<br>
 I'm a Full-stack Web developer and a Automation Engineer.
