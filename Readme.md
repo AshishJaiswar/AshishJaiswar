@@ -22,7 +22,7 @@ Exploring UI/UX designing, 3D Web pages, Web Animation.</p>
     <a href="https://twitter.com/ashishjaiswar_">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
-    <a href="https://www.linkedin.com/in/ashish-jaiswar-developer/">
+    <a href="https://www.linkedin.com/in/ashishjaiswar/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:ashishjaiswar771@gmail.com">
